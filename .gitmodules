@@ -1,0 +1,21 @@
+[submodule "BioMod"]
+	path = BioMod
+	url = https://github.com/JGAguado/BioMod
+[submodule "ElectroLab"]
+	path = ElectroLab
+	url = https://github.com/JGAguado/ElectroLab
+[submodule "ArduLab"]
+	path = ArduLab
+	url = https://github.com/JGAguado/ArduLab
+[submodule "RadioLab"]
+	path = RadioLab
+	url = https://github.com/JGAguado/RadioLab
+[submodule "DomoMod"]
+	path = DomoMod
+	url = https://github.com/JGAguado/DomoMod
+[submodule "KineticMod"]
+	path = KineticMod
+	url = https://github.com/JGAguado/KineticMod
+[submodule "BotMod"]
+	path = BotMod
+	url = https://github.com/JGAguado/BotMod

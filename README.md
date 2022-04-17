@@ -10,7 +10,7 @@ This repository contains the design files of the LabTronics boards:
 <ul>
    <li><a href="https://github.com/JGAguado/ElectroLab">ElectroLab</a>: The ElectroLab board is an electronic trainer designed for the ICAI Technological Campus. It has been created with educational purposes in the analogic and digital electronics field.</li>
    <img src="https://github.com/JGAguado/ElectroLab/blob/master/Documentation/Images/Top.png" width="49%">    
-   <img src="https://github.com/JGAguado/ElectroLab/blob/master/Documentation/Images/Top.png" width="49%"> 
+   <img src="https://github.com/JGAguado/ElectroLab/blob/master/Documentation/Images/Bottom.png" width="49%"> 
    
    <li><a href="https://github.com/JGAguado/ArduLab">ArduLab</a>: The ArduLab board is a robotic platform designed for the ICAI Technological Campus. It has been created with educational purposes for developing robotic proyects based on de [Arduino](https://www.arduino.cc) environment.</li>
    <img src="https://github.com/JGAguado/ArduLab/blob/master/Documentation/Images/Top.png" width="49%">    
